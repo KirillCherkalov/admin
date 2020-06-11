@@ -1,0 +1,12 @@
+{
+  "title": "Sign In",
+  "form": {
+    "labels": {
+      "email": "Email Address",
+      "password": "Password"
+    },
+    "signInButton": "sign in",
+    "forgotPasswordLink": "Forgot your password?",
+    "requiredFieldsInfo": "Fields marked with * are required"
+  }
+}
